@@ -49,11 +49,3 @@ function sortearAmigo() {
     }
 }
 
-
-
-
-
-
-
-
-
