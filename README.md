@@ -1,4 +1,4 @@
-# 👥 ONE - Challenge "Amigo Secreto"
+# 👥 Projeto ONE - Challenge "Amigo Secreto"
 
 <br>
 <p align="justify">
