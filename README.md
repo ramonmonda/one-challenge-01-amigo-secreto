@@ -50,7 +50,7 @@
 ## 📷 Demonstração
 
 <br>
-<p align="center"><img src="/assets/demonstracao-app-amigo-secreto.gif" alt="GIF Demonstrativo do Jogo" style="max-width: 100%; height: auto;"></p>
+<p align="center"><img src="assets/demonstracao-app-amigo-secreto.gif" alt="GIF Demonstrativo do Jogo" style="max-width: 100%; height: auto;"></p>
 <br><br>
 
 
